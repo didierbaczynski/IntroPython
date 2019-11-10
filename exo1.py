@@ -6,4 +6,5 @@ for index,element in enumerate(L1):
       L3.append(L1[index])
     else :
       L3.append(L2[index])
+print ("Hello")
 print (L3)
